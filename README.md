@@ -58,3 +58,8 @@ Il a pour objectif de prédire le prix de voitures d’occasion à partir de leu
 5. **Évaluation et interprétation**
    - Analyse des performances sur les données de test
    - Interprétation de l’importance des variables
+  
+
+
+![Uploading image.png…]()
+
